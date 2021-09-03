@@ -1,0 +1,3 @@
+/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/workworkwork/cmake-build-wsl_profile/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/workworkwork/cmake-build-wsl_profile/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/workworkwork/cmake-build-wsl_profile/CMakeFiles/workworkwork.dir

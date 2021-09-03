@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/workworkwork.dir/main.cpp.o  -o workworkwork 
